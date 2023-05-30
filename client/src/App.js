@@ -14,7 +14,7 @@ function App() {
       <main>
         <h1>test</h1>
         <Routes>
-          {/* <Route path='/' element={<LandingPage />} /> */}
+          <Route path='/' element={<LandingPage />} />
         </Routes>
       </main>
     </div>
